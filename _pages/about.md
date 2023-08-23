@@ -21,7 +21,7 @@ I am a Master student from Tongji University. My research interests include auto
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got three papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
+- *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -40,7 +40,9 @@ I am a Master student from Tongji University. My research interests include auto
 
 - [Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach](https://www.researchgate.net/publication/372784984_Teaching_Autonomous_Vehicles_to_Express_Interaction_Intent_during_Unprotected_Left_Turns_A_Human-Driving-Prior-Based_Trajectory_Planning_Approach), **Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprints.
 
-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://www.researchgate.net/publication/370850830_Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors), **Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, preprints.
+
+- [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](https://www.researchgate.net/publication/368985409_Evaluation_of_Drivers'_Interaction_Ability_at_Social_Scenarios_A_Process-Based_Framework), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, preprints.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

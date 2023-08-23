@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Jiaqi Liu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Reinforcement learning, decision-making of autonomous driving, and intelligent transportation system."
+repository               : "Thirteentj/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaqi Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=aYiEdlsAAAAJ&hl=en"
   email            : "liujiaqi13@tongji.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jiaqi-Liu-98?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoiaG9tZSJ9fQ" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

@@ -44,12 +44,14 @@ I am a Master student from Tongji University. My research interests include auto
 
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](https://www.researchgate.net/publication/368985409_Evaluation_of_Drivers'_Interaction_Ability_at_Social_Scenarios_A_Process-Based_Framework), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, preprints.
 
-- [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://www.researchgate.net/publication/368462661_Design_of_the_Reverse_Logistics_System_for_Medical_Waste_Recycling_Part_I_System_Architecture_Classification_Monitoring_Scheme_and_Site_Selection_Algorithm), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu***, Yijun Liao, Lingbo, accpeted by ITSC 2023.
+- [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://www.researchgate.net/publication/368462661_Design_of_the_Reverse_Logistics_System_for_Medical_Waste_Recycling_Part_I_System_Architecture_Classification_Monitoring_Scheme_and_Site_Selection_Algorithm), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
 
-- [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://www.researchgate.net/publication/371162908_Design_of_the_Reverse_Logistics_System_for_Medical_Waste_Recycling_Part_II_Route_Optimization_with_Case_Study_under_COVID-19_Pandemic), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu***, Yijun Liao, Lingbo, accpeted by ITSC 2023.
+- [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://www.researchgate.net/publication/371162908_Design_of_the_Reverse_Logistics_System_for_Medical_Waste_Recycling_Part_II_Route_Optimization_with_Case_Study_under_COVID-19_Pandemic), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
+
+- - [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, Jiaqi Liu, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 
 # 🎖 Honors and Awards
-- *2022.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* Shanghai University Student Annual Character (Nomination Award)!
 - *2022.06* Outstanding Graduates from Shanghai(Top 1%).
 - *2020.10* Best paper award of [CUMCM](http://en.mcm.edu.cn/) **(3/ 42000+)** !
 

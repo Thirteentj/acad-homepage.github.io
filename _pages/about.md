@@ -51,7 +51,7 @@ I am a Master student from Tongji University. My research interests include auto
 # 🎖 Honors and Awards
 - *2022.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.06* Outstanding Graduates from Shanghai(Top 1%).
-- *2020.10* Best paper award of [CUMCM](http://en.mcm.edu.cn/) **(3/ 4200+)** !
+- *2020.10* Best paper award of [CUMCM](http://en.mcm.edu.cn/) **(3/ 42000+)** !
 
 # 📖 Educations
 - *2022.09 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China

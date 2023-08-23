@@ -26,7 +26,7 @@ I am a Master student from Tongji University. My research interests include auto
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://www.researchgate.net/publication/372784449_MTD-GPT_A_Multi-Task_Decision-Making_GPT_Model_for_Autonomous_Driving_at_Unsignalized_Intersections)

@@ -17,16 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student from Tongji University. My research interests include autonomous vehicle (AV), decision-making, reinforcement learning(RL), and intelligent transportation system (ITS).
+I am a Master student from Tongji University.  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Prof [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
+
+My research interests include autonomous vehicle (AV), decision-making, reinforcement learning(RL), and intelligent transportation system (ITS).
 
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
+- *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai's College Student of the Year, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
+- *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the honor of Shanghai Outstanding Graduate!
+- *2020.11*: &nbsp;🎉🎉 I won the only Grand Prize in the China Reverse Logistics Design Competition
+- *2020.10*: &nbsp;🎉🎉 I won the Best Paper Award in CUMCM! CUMCM is the largest basic academic competition for undergraduate students in China, and 3 papers were awarded from 42,000+ candidates!
+- *2020.10*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China's transportation field!
+
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MTD_GPT_Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://www.researchgate.net/publication/372784449_MTD-GPT_A_Multi-Task_Decision-Making_GPT_Model_for_Autonomous_Driving_at_Unsignalized_Intersections)
@@ -53,16 +61,17 @@ I am a Master student from Tongji University. My research interests include auto
 # 🎖 Honors and Awards
 - *2022.10* Shanghai University Student Annual Character (Nomination Award)!
 - *2022.06* Outstanding Graduates from Shanghai(Top 1%).
+- *2021.12* National Scholarship for College Student, Ministry of Education of China
+- *2020.11* The only Grand Prize in China Reverse Logistics Design Competition
 - *2020.10* Best paper award of [CUMCM](http://en.mcm.edu.cn/) **(3/ 42000+)** !
+- *2020.10* First Prize in China Transportation Science and Technology Competition
+- *2019.12* National Scholarship for College Student, Ministry of Education of China
+
 
 # 📖 Educations
 - *2022.09 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
 - *2018.09 - 2022.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📚 Academic Services
+- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics
+- Conference Reviewer: ITSC, CVCI

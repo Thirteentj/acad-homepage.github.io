@@ -23,7 +23,9 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 
 
 # 🔥 News
+- *2023.08*: &nbsp;🎉🎉 One paper entitled Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2307.15950) here.
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
+- *2023.05*: &nbsp;🎉🎉 One paper entitled Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors is pre-printed on techrxiv. Find [paper](https://www.techrxiv.org/articles/preprint/Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors/22817417) here.
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai's College Student of the Year, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
 - *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the honor of Shanghai Outstanding Graduate!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!

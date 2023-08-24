@@ -26,6 +26,7 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai's College Student of the Year, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
 - *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the honor of Shanghai Outstanding Graduate!
+- *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
 - *2020.11*: &nbsp;🎉🎉 I won the only Grand Prize in the China Reverse Logistics Design Competition
 - *2020.10*: &nbsp;🎉🎉 I won the Best Paper Award in CUMCM! CUMCM is the largest basic academic competition for undergraduate students in China, and 3 papers were awarded from 42,000+ candidates!
 - *2020.10*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China's transportation field!
@@ -62,6 +63,7 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 - *2022.10* Shanghai University Student Annual Character (Nomination Award)!
 - *2022.06* Outstanding Graduates from Shanghai(Top 1%).
 - *2021.12* National Scholarship for College Student, Ministry of Education of China
+- *2021.05* Tongji University Pursuit of Excellence Award (3/4450) !
 - *2020.11* The only Grand Prize in China Reverse Logistics Design Competition
 - *2020.10* Best paper award of [CUMCM](http://en.mcm.edu.cn/) **(3/ 42000+)** !
 - *2020.10* First Prize in China Transportation Science and Technology Competition

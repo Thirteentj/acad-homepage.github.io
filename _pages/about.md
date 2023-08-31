@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student from Tongji University.  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Prof [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
+I am a Master student from [Tongji University](https://www.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Prof [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
 
 My research interests include autonomous vehicle (AV), decision-making, reinforcement learning(RL), and intelligent transportation system (ITS).
 
@@ -27,7 +27,7 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
 - *2023.05*: &nbsp;🎉🎉 One paper entitled Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors is pre-printed on techrxiv. Find [paper](https://www.techrxiv.org/articles/preprint/Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors/22817417) here.
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai's College Student of the Year, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
-- *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the honor of Shanghai Outstanding Graduate!
+- *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the first overall ranking in my major (1/163), and I got the honor of Shanghai Outstanding Graduate(Top 1%)!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
 - *2020.11*: &nbsp;🎉🎉 I won the only Grand Prize in the China Reverse Logistics Design Competition
 - *2020.10*: &nbsp;🎉🎉 I won the Best Paper Award in CUMCM! CUMCM is the largest basic academic competition for undergraduate students in China, and 3 papers were awarded from 42,000+ candidates!

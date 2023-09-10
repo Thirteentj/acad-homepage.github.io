@@ -42,7 +42,7 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 
 [MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://www.researchgate.net/publication/372784449_MTD-GPT_A_Multi-Task_Decision-Making_GPT_Model_for_Autonomous_Driving_at_Unsignalized_Intersections)
 
-**Jiaqi Liu**, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun
+**Jiaqi Liu**, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun, accpeted by ITSC 2023
 
 [**paper**](https://arxiv.org/abs/2307.16118) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We introduce a Multi-Task Decision-Making Generative Pre-trained Transformer (MTD-GPT) model for autonomous vehicles. 
@@ -77,5 +77,5 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 - *2018.09 - 2022.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China
 
 # 📚 Academic Services
-- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics
+- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII)
 - Conference Reviewer: ITSC, CVCI

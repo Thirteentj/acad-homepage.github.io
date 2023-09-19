@@ -23,6 +23,7 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 One paper entitled Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2309.09726) here.
 - *2023.08*: &nbsp;🎉🎉 One paper entitled Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2307.15950) here.
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
 - *2023.05*: &nbsp;🎉🎉 One paper entitled Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors is pre-printed on techrxiv. Find [paper](https://www.techrxiv.org/articles/preprint/Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors/22817417) here.
@@ -48,6 +49,8 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 - We introduce a Multi-Task Decision-Making Generative Pre-trained Transformer (MTD-GPT) model for autonomous vehicles. 
 </div>
 </div>
+
+- [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://arxiv.org/abs/2309.09726), **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, preprints.
 
 - [Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach](https://www.researchgate.net/publication/372784984_Teaching_Autonomous_Vehicles_to_Express_Interaction_Intent_during_Unprotected_Left_Turns_A_Human-Driving-Prior-Based_Trajectory_Planning_Approach), **Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprints.
 

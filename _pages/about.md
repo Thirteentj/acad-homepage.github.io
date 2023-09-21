@@ -80,5 +80,5 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 - *2018.09 - 2022.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China
 
 # 📚 Academic Services
-- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII)
+- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT)
 - Conference Reviewer: ITSC, CVCI

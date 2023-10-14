@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student from [Tongji University](https://www.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Prof [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
 
-My research interests include autonomous vehicle (AV), decision-making, reinforcement learning(RL), and intelligent transportation system (ITS).
+My research interests include autonomous vehicle (AV), decision-making, reinforcement learning(RL), and intelligent transportation system (ITS). And my research vision is to build a safer, more generalized, and more socially compatible autonomous system.
 
 
 # 🔥 News

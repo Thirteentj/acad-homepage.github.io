@@ -82,4 +82,4 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 
 # 📚 Academic Services
 - Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE)
-- Conference Reviewer: ITSC, CVCI
+- Conference Reviewer: ITSC, CVCI, TRB

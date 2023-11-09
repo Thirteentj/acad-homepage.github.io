@@ -23,6 +23,7 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 
 
 # 🔥 News
+- *2023.11*: &nbsp;🎉🎉 I got one paper accepted by IEEE Transactions on Intelligent Vehicles(TIV).
 - *2023.10*: &nbsp;🎉 As the first author, I got one paper accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
 - *2023.09*: &nbsp; One paper entitled Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2309.09726) here.
 - *2023.08*: &nbsp; One paper entitled Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2307.15950) here.
@@ -51,7 +52,7 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 </div>
 </div>
 
-- [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://arxiv.org/abs/2309.09726), **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, preprints.
+- [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://arxiv.org/abs/2309.09726), **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, accepted by IEEE Transactions on Intelligent Vehicles(TIV).
 
 - [Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach](https://www.researchgate.net/publication/372784984_Teaching_Autonomous_Vehicles_to_Express_Interaction_Intent_during_Unprotected_Left_Turns_A_Human-Driving-Prior-Based_Trajectory_Planning_Approach), **Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprints.
 

@@ -52,7 +52,7 @@ My research interests include autonomous vehicle (AV), decision-making, reinforc
 </div>
 </div>
 
-- [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://arxiv.org/abs/2309.09726), **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, accepted by IEEE Transactions on Intelligent Vehicles(TIV).
+- [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://arxiv.org/abs/2309.09726), **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles(TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
 
 - [Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach](https://www.researchgate.net/publication/372784984_Teaching_Autonomous_Vehicles_to_Express_Interaction_Intent_during_Unprotected_Left_Turns_A_Human-Driving-Prior-Based_Trajectory_Planning_Approach), **Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprints.
 

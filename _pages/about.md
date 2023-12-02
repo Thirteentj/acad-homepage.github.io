@@ -21,6 +21,8 @@ I am a Master student from [Tongji University](https://www.tongji.edu.cn/).  I a
 
 My research interests include autonomous vehicle (AV), decision-making, reinforcement learning(RL), and intelligent transportation system (ITS). And my research vision is to build a safer, more generalized, and more socially compatible autonomous system.
 
+I am currently seeking a Ph.D. position in a relevant field and anticipate starting my studies in the fall of 2025.
+
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 I got one paper accepted by IEEE Transactions on Intelligent Vehicles(TIV).

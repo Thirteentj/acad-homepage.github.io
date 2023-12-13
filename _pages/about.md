@@ -84,5 +84,5 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - *2018.09 - 2022.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China
 
 # 📚 Academic Services
-- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE)
+- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), Journal of Advanced Transportation
 - Conference Reviewer: ITSC, CVCI, TRB

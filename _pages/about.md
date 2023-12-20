@@ -41,6 +41,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MTD_GPT_Framework.png' alt="sym" width="100%"></div></div>
@@ -79,6 +80,8 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - *2020.11* The only Grand Prize in China Reverse Logistics Design Competition
 - *2020.10* Best paper award of [CUMCM](http://en.mcm.edu.cn/) **(3/ 42000+)** !
 - *2020.10* First Prize in China Transportation Science and Technology Competition
+- *2020.10* First Prize in the Shanghai College Students Transportation Innovation Competition
+- *2020.5*  First Prize in Tongji University Mathematical Modeling Contest
 - *2019.12* National Scholarship for College Student, Ministry of Education of China
 
 

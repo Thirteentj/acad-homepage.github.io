@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2023.12*: &nbsp; One paper entitled Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2312.11843) here.
 - *2023.11*: &nbsp;🎉🎉 I got one paper accepted by IEEE Transactions on Intelligent Vehicles(TIV).
 - *2023.10*: &nbsp;🎉 As the first author, I got one paper accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
 - *2023.09*: &nbsp; One paper entitled Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2309.09726) here.
@@ -55,6 +56,8 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 
 - [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://ieeexplore.ieee.org/document/10315232), **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles(TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
+
+- [Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://arxiv.org/abs/2312.11843), **Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, preprints.
 
 - [Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach](https://www.researchgate.net/publication/372784984_Teaching_Autonomous_Vehicles_to_Express_Interaction_Intent_during_Unprotected_Left_Turns_A_Human-Driving-Prior-Based_Trajectory_Planning_Approach), **Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprints.
 

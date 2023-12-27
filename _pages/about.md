@@ -38,6 +38,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - *2020.11*: &nbsp;🎉🎉 I won the only Grand Prize in the China Reverse Logistics Design Competition
 - *2020.10*: &nbsp;🎉🎉 I won the Best Paper Award in CUMCM! CUMCM is the largest basic academic competition for undergraduate students in China, and 3 papers were awarded from 42,000+ candidates!
 - *2020.10*: &nbsp;🎉🎉 I won the first prize of China Transportation Science and Technology Competition, which is the most important undergraduate academic competition in China's transportation field!
+- My story and work during my undergraduate studies were reported by several influential Chinese media outlets. You can find more content here: [1](https://mp.weixin.qq.com/s/NZdZ1VUiMM9sV1GEcLJY_w), [2](https://mp.weixin.qq.com/s/UXLehzFPHhR1yeVYfFhDOw), [3](https://mp.weixin.qq.com/s/JY2Jae3URVvWo_v3R7BvGA)
 
 
 

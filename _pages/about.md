@@ -58,6 +58,16 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DDM_lag_framework.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://arxiv.org/abs/2401.03629)
+
+**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, preprints
+
+</div>
+</div>
+
 - [DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://arxiv.org/abs/2401.03629), **Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, preprints.
 
 - [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://ieeexplore.ieee.org/document/10315232), **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles(TIV), DOI: 10.1109/TIV.2023.3332080, 2023.

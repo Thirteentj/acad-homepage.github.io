@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2024.01*: &nbsp; One paper entitled DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2401.03629) here.
 - *2023.12*: &nbsp; One paper entitled Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2312.11843) here.
 - *2023.11*: &nbsp;🎉🎉 I got one paper accepted by IEEE Transactions on Intelligent Vehicles(TIV).
 - *2023.10*: &nbsp;🎉 As the first author, I got one paper accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
@@ -57,6 +58,8 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 </div>
 
+- [DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://arxiv.org/abs/2401.03629), **Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, preprints.
+
 - [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://ieeexplore.ieee.org/document/10315232), **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles(TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
 
 - [Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://arxiv.org/abs/2312.11843), **Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, preprints.
@@ -71,7 +74,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://www.researchgate.net/publication/371162908_Design_of_the_Reverse_Logistics_System_for_Medical_Waste_Recycling_Part_II_Route_Optimization_with_Case_Study_under_COVID-19_Pandemic), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
 
-- [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, Jiaqi Liu, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
+- [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, **Jiaqi Liu**, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 
 # 🎖 Honors and Awards
 - *2022.10* Shanghai University Student Annual Character (Nomination Award)!

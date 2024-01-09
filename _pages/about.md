@@ -98,9 +98,15 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MAGADDPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://www.researchgate.net/publication/370850830_Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors)
 
-- [Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://www.researchgate.net/publication/370850830_Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors), **Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, preprints.
+**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, preprints.
+
+</div>
+</div>
 
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](https://www.researchgate.net/publication/368985409_Evaluation_of_Drivers'_Interaction_Ability_at_Social_Scenarios_A_Process-Based_Framework), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, preprints.
 

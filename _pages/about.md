@@ -122,7 +122,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - *2021.12* National Scholarship for College Student, Ministry of Education of China
 - *2021.05* Tongji University Pursuit of Excellence Award (3/4450) !
 - *2020.11* The only Grand Prize in China Reverse Logistics Design Competition
-- *2020.10* Best paper award of [CUMCM](http://en.mcm.edu.cn/) **(3/ 42000+)** !
+- *2020.10* Best paper award of [Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)](http://www.mcm.edu.cn/html_cn/node/15767d638d52e1d38c64ea910de792d1.html) **(3/ 42000+)** !
 - *2020.10* First Prize in China Transportation Science and Technology Competition
 - *2020.10* First Prize in the Shanghai College Students Transportation Innovation Competition
 - *2020.5*  First Prize in Tongji University Mathematical Modeling Contest

@@ -33,7 +33,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - *2023.08*: &nbsp; One paper entitled Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2307.15950) here.
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
 - *2023.05*: &nbsp; One paper entitled Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors is pre-printed on techrxiv. Find [paper](https://www.techrxiv.org/articles/preprint/Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors/22817417) here.
-- *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai's College Student of the Year, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
+- *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai University Student Annual Character, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
 - *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the first overall ranking in my major (1/163), and I got the honor of Shanghai Outstanding Graduate(Top 1%)!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
 - *2020.11*: &nbsp;🎉🎉 I won the only Grand Prize in the China Reverse Logistics Design Competition
@@ -117,11 +117,11 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, **Jiaqi Liu**, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 
 # 🎖 Honors and Awards
-- *2022.10* Shanghai University Student Annual Character (Nomination Award)!
+- *2022.10* [Shanghai University Student Annual Character (Nomination Award)](https://edu.sh.gov.cn/xxgk2_zdgz_pxbz_01/20221019/a513dbcaca5e4dddb0a36cf00a5ff5b1.html)!
 - *2022.06* Outstanding Graduates from Shanghai(Top 1%).
 - *2021.12* National Scholarship for College Student, Ministry of Education of China
-- *2021.05* Tongji University Pursuit of Excellence Award (3/4450) !
-- *2020.11* The only Grand Prize in China Reverse Logistics Design Competition
+- *2021.05* [Tongji University Pursuit of Excellence Award](https://news.tongji.edu.cn/info/1008/77493.htm) (3/4450) !
+- *2020.11* The only Grand Prize in [China Reverse Logistics Design Competition](https://tjjt.tongji.edu.cn/info/1101/3204.htm) (1 / 329)
 - *2020.10* Best paper award of [Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)](http://www.mcm.edu.cn/html_cn/node/15767d638d52e1d38c64ea910de792d1.html) **(3/ 42000+)** !
 - *2020.10* First Prize in China Transportation Science and Technology Competition
 - *2020.10* First Prize in the Shanghai College Students Transportation Innovation Competition

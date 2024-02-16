@@ -69,11 +69,11 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MTD_GPT_Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://www.researchgate.net/publication/372784449_MTD-GPT_A_Multi-Task_Decision-Making_GPT_Model_for_Autonomous_Driving_at_Unsignalized_Intersections)
+[MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://ieeexplore.ieee.org/document/10421993)
 
-**Jiaqi Liu**, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun, accpeted by ITSC 2023
+**Jiaqi Liu**, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun, 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 
-[**paper**](https://arxiv.org/abs/2307.16118) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**paper**](https://ieeexplore.ieee.org/document/10421993) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We introduce a Multi-Task Decision-Making Generative Pre-trained Transformer (MTD-GPT) model for autonomous vehicles. 
 </div>
 </div>
@@ -110,9 +110,9 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](https://www.researchgate.net/publication/368985409_Evaluation_of_Drivers'_Interaction_Ability_at_Social_Scenarios_A_Process-Based_Framework), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, preprints.
 
-- [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://www.researchgate.net/publication/368462661_Design_of_the_Reverse_Logistics_System_for_Medical_Waste_Recycling_Part_I_System_Architecture_Classification_Monitoring_Scheme_and_Site_Selection_Algorithm), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
+- [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
 
-- [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://www.researchgate.net/publication/371162908_Design_of_the_Reverse_Logistics_System_for_Medical_Waste_Recycling_Part_II_Route_Optimization_with_Case_Study_under_COVID-19_Pandemic), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
+- [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://ieeexplore.ieee.org/document/10422236), Chaozhong Xue, YONGQI DONG, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
 
 - [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, **Jiaqi Liu**, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 

@@ -82,9 +82,9 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_Game_Decision.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://arxiv.org/abs/2312.11843)
+[Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://ieeexplore.ieee.org/document/10494558)
 
-**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, accepted by IEEE Transactions on Vehicular Technology(TVT).
+**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology(TVT), DOI:10.1109/TVT.2024.3385750.
 
 </div>
 </div>

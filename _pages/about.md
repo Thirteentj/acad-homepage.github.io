@@ -75,8 +75,6 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 **Jiaqi Liu**, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun, 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 
-[**paper**](https://ieeexplore.ieee.org/document/10421993) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We introduce a Multi-Task Decision-Making Generative Pre-trained Transformer (MTD-GPT) model for autonomous vehicles. 
 </div>
 </div>
 

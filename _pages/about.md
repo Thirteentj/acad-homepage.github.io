@@ -73,7 +73,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections](https://ieeexplore.ieee.org/document/10421993)
 
-**Jiaqi Liu**, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun, 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
+**Jiaqi Liu**, Peng Hang, Xiao Qi, Jianqiang Wang, Jian Sun, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 
 </div>
 </div>
@@ -121,9 +121,9 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](https://www.researchgate.net/publication/368985409_Evaluation_of_Drivers'_Interaction_Ability_at_Social_Scenarios_A_Process-Based_Framework), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, preprints.
 
-- [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
+- [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 
-- [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://ieeexplore.ieee.org/document/10422236), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, accpeted by ITSC 2023.
+- [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://ieeexplore.ieee.org/document/10422236), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
   
 - [Optimal Placement of Charging Stations in Road Networks: A Reinforcement Learning Approach with Attention Mechanism](https://www.mdpi.com/2076-3417/13/14/8473), **Jiaqi Liu**, Jian Sun, and Xiao Qi, Applied Sciences 13.14 (2023): 8473.
 

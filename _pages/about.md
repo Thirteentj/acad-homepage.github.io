@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2024.04*: &nbsp; One paper entitled Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2404.15696) here.
 - *2024.04*: &nbsp;🎉🎉 One paper(first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
 - *2024.01*: &nbsp; One paper entitled DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2401.03629) here.
 - *2023.12*: &nbsp; One paper entitled Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2312.11843) here.

@@ -90,6 +90,17 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DAMARL_for_CACC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement](https://arxiv.org/abs/2404.15696)
+
+**Jiaqi Liu**, Ziran Wang, Peng Hang, and Jian Sun, preprints.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/IRL_Planning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

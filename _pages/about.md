@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student from [Tongji University](https://www.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Professor [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
+I am a Master's student from [Tongji University](https://www.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Professor [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm).
 
-My research interests include autonomous vehicle, social decision-making, game theory, reinforcement learning and foundation models. And my research vision is to build a safer, more generalized, and socially compatible autonomous system.
+My research interests include autonomous vehicles, social decision-making, game theory, reinforcement learning and foundation models. And my research vision is to build a safer, more generalized, and socially compatible autonomous system.
 
 I am currently seeking a Ph.D. position in a relevant field and anticipate starting my studies in the fall of 2025.
 

@@ -119,7 +119,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 </div>
 
-- [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](https://www.researchgate.net/publication/368985409_Evaluation_of_Drivers'_Interaction_Ability_at_Social_Scenarios_A_Process-Based_Framework), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, preprints.
+- [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](https://arxiv.org/abs/2404.15696), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, preprints.
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student from [Tongji University](https://www.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Professor [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm). Simultaneously, I am presently engaged in an internship from [UC Berkeley](https://www.berkeley.edu/) where I am collaborating with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Dr. Mingyu Ding](https://dingmyu.github.io/), and [Dr. Zhan Wei](https://zhanwei.site/).
+I am a Master's student from [Tongji University](https://www.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Professor [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm). Simultaneously, I am presently engaged in an internship from [UC Berkeley](https://www.berkeley.edu/), where I am collaborating with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Dr. Mingyu Ding](https://dingmyu.github.io/), and [Dr. Zhan Wei](https://zhanwei.site/).
 
 My research interests include autonomous vehicles, social decision-making, game theory, reinforcement learning and foundation models. And my research vision is to build a safer, more generalized, and socially compatible autonomous system.
 

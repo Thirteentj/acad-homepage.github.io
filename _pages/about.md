@@ -26,7 +26,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 # 🔥 News
 - *2024.06*: &nbsp; One paper entitled A Decision-Making GPT Model Augmented with Entropy Regularization for
-  Autonomous Vehicles is pre-printed on ArXiv. 
+  Autonomous Vehicles is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2406.13908) here.
 - *2024.04*: &nbsp; One paper entitled Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2404.15696) here.
 - *2024.04*: &nbsp;🎉🎉 One paper(first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
 - *2024.01*: &nbsp; One paper entitled DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2401.03629) here.
@@ -103,7 +103,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SafeGPT_Entropy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://arxiv.org/submit/5679673)
+[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://arxiv.org/abs/2406.13908)
 
 **Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, preprints.
 

@@ -103,7 +103,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SafeGPT_Entropy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles]
+[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://arxiv.org/submit/5679673)
 
 **Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, preprints.
 

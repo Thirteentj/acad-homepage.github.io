@@ -25,15 +25,15 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 One paper(first author) is accepted by Transportmetrica B: Transport Dynamics.
+- *2024.04*: &nbsp;🎉 One paper (first author) is accepted by Transportmetrica B: Transport Dynamics.
 - *2024.06*: &nbsp; One paper entitled A Decision-Making GPT Model Augmented with Entropy Regularization for
   Autonomous Vehicles is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2406.13908) here.
 - *2024.04*: &nbsp; One paper entitled Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2404.15696) here.
-- *2024.04*: &nbsp;🎉🎉 One paper(first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
+- *2024.04*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
 - *2024.01*: &nbsp; One paper entitled DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2401.03629) here.
 - *2023.12*: &nbsp; One paper entitled Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2312.11843) here.
-- *2023.11*: &nbsp;🎉🎉 One paper(first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
-- *2023.10*: &nbsp;🎉 One paper(first author) is accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
+- *2023.11*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
+- *2023.10*: &nbsp;🎉 One paper (first author) is accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
 - *2023.09*: &nbsp; One paper entitled Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2309.09726) here.
 - *2023.08*: &nbsp; One paper entitled Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2307.15950) here.
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!

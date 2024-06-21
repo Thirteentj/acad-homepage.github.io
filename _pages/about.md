@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉 One paper(first author) is accepted by Transportmetrica B: Transport Dynamics.
 - *2024.06*: &nbsp; One paper entitled A Decision-Making GPT Model Augmented with Entropy Regularization for
   Autonomous Vehicles is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2406.13908) here.
 - *2024.04*: &nbsp; One paper entitled Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2404.15696) here.

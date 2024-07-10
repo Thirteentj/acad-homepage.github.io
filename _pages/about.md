@@ -25,8 +25,8 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉 [One paper](https://arxiv.org/abs/2404.15696) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
-- *2024.06*: &nbsp;🎉 [One paper](https://arxiv.org/abs/2405.03273) (first author) is accepted by Transportmetrica B: Transport Dynamics.
+- *2024.07*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2404.15696) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
+- *2024.06*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2405.03273) (first author) is accepted by Transportmetrica B: Transport Dynamics.
 - *2024.06*: &nbsp; One paper entitled A Decision-Making GPT Model Augmented with Entropy Regularization for
   Autonomous Vehicles is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2406.13908) here.
 - *2024.04*: &nbsp; One paper entitled Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2404.15696) here.

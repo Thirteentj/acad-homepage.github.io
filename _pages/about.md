@@ -97,7 +97,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement](https://arxiv.org/abs/2404.15696)
 
-**Jiaqi Liu**, Ziran Wang, Peng Hang, and Jian Sun, preprints.
+**Jiaqi Liu**, Ziran Wang, Peng Hang, and Jian Sun, accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
 
 </div>
 </div>

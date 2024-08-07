@@ -146,6 +146,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 # 🎖 Honors and Awards
 
+- *2024.08* IEEE ITSC 2024 Travel Award
 - *2023.12* Jingchuan Scholarship
 - *2023.01* Dean's Scholarship, College of Transportation Engineering, Tongji University (Only one)
 - *2022.10* [Shanghai University Student Annual Character (Nomination Award)](https://edu.sh.gov.cn/xxgk2_zdgz_pxbz_01/20221019/a513dbcaca5e4dddb0a36cf00a5ff5b1.html)!

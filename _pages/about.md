@@ -134,6 +134,16 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MAPPO_PIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](https://arxiv.org/abs/2406.13908)
+
+Yicheng Guo, **Jiaqi Liu(co-first author)**, Rongjie Yu, Peng Hang, Jian Sun preprints.
+
+</div>
+</div>
+
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.

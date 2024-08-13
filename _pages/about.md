@@ -139,7 +139,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](https://arxiv.org/abs/2406.13908)
 
-Yicheng Guo, **Jiaqi Liu(co-first author)**, Rongjie Yu, Peng Hang, Jian Sun, preprints.
+Yicheng Guo*, ** Jiaqi Liu* **, Rongjie Yu, Peng Hang, Jian Sun, preprints.
 
 </div>
 </div>

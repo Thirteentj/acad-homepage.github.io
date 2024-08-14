@@ -140,7 +140,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](hhttps://arxiv.org/abs/2408.06656)
 
-Yicheng Guo**, **Jiaqi Liu***, Rongjie Yu, Peng Hang$^\dag$, Jian Sun, preprints.
+Yicheng Guo**, ** Jiaqi Liu* **, Rongjie Yu, Peng Hang$^\dag$, Jian Sun, preprints.
 
 </div>
 </div>
@@ -186,8 +186,10 @@ Yicheng Guo**, **Jiaqi Liu***, Rongjie Yu, Peng Hang$^\dag$, Jian Sun, preprints
 - Conference Reviewer: ITSC, CVCI, TRB
 
 ##  Mentoring
+
 ### Ph.D. students
 - Yicheng Guo: Tongji University, 2023-present.
+
 ### Undergraduate students
 - Chengkai Xu: Tongji University, 2023-present.
 - Zihao Deng: Tongji University, 2023-2024.

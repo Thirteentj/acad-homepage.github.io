@@ -181,5 +181,14 @@ Yicheng Guo*, **Jiaqi Liu***, Rongjie Yu, Peng Hang, Jian Sun, preprints.
 - *2018.09 - 2022.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China (GPA: 4.91/5, rank: 1/163)
 
 # 📚 Academic Services
+## Reviews
 - Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), Journal of Advanced Transportation
 - Conference Reviewer: ITSC, CVCI, TRB
+
+##  Mentoring
+### Ph.D. students
+- Yicheng Guo: Tongji University, 2023-present.
+### Undergraduate students
+- Chengkai Xu: Tongji University, 2023-present.
+- Zihao Deng: Tongji University, 2023-2024.
+- Yuhang Zhang: Tongji University, 2024-present.

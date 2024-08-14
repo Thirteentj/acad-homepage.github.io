@@ -22,5 +22,5 @@ main:
   - title: "CV"
     url: "https://drive.google.com/file/d/1rkqADpmHcXhUqjiPG2R7-rLsKz4n7grv/view?usp=drive_link"
 
-  - title: "Mentorship Experience"
-    url: "/#-Mentorship Experience"
+  # - title: "Mentorship Experience"
+  #   url: "/#-Mentorship Experience"

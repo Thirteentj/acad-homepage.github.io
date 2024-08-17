@@ -78,7 +78,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MAPPO_PIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](hhttps://arxiv.org/abs/2408.06656)
+[MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](https://arxiv.org/abs/2408.06656)
 
 Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, accepted by [ECCV 2024 MAAS Workshop](https://coop-intelligence.github.io/)(Oral).
 

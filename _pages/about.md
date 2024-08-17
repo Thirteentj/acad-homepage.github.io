@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2024.08*: &nbsp; [One paper](https://arxiv.org/abs/2408.06656)(Co-first author) is accepted by [ECCV 2024 MAAS Workshop](https://coop-intelligence.github.io/)
 - *2024.08*: &nbsp; One paper is preprinted on Arxiv: [MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](https://arxiv.org/abs/2408.06656)
 - *2024.08*: &nbsp;🎉🎉 I won the IEEE ITSC 2024 Travel Award.
 - *2024.07*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2404.15696) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).

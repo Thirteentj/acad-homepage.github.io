@@ -150,7 +150,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
 
-- [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang, preprints.
+- [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprints.
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu (Corresponding Author)**, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 

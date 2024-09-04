@@ -120,7 +120,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 [A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://arxiv.org/abs/2406.13908)
 
-**Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, preprints.
+**Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, accepted by [8th CAA International Conference on Vehicular Control and Intelligence (CVCI 2024)](http://www.ascl.jlu.edu.cn/vci/cvci2024/Home.htm)
 
 </div>
 </div>

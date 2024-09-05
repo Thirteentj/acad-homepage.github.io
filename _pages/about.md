@@ -147,7 +147,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 </div>
 </div>
 
-
+- [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://www.researchgate.net/publication/383704210_Towards_Interactive_and_Learnable_Cooperative_Driving_Automation_a_Large_Language_Model-Driven_Decision-making_Framework), Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprints.
 
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
 

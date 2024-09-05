@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2024.09*: &nbsp; One paper entitled Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework is pre-printed. Find [paper](https://www.researchgate.net/publication/383704210_Towards_Interactive_and_Learnable_Cooperative_Driving_Automation_a_Large_Language_Model-Driven_Decision-making_Framework) here.
 - *2024.08*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2408.06656) (Co-first author) is accepted by [ECCV 2024 MAAS Workshop](https://coop-intelligence.github.io/)(Oral)
 - *2024.08*: &nbsp; Two papers are preprinted on Arxiv: (1) [MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](https://arxiv.org/abs/2408.06656), (2) [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468)
 - *2024.08*: &nbsp;🎉🎉 I won the IEEE ITSC 2024 Travel Award.

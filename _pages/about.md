@@ -61,7 +61,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://arxiv.org/abs/2401.03629)
 
-**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, preprints.
+**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, preprint.
 
 </div>
 </div>
@@ -132,7 +132,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 [Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach](https://www.researchgate.net/publication/372784984_Teaching_Autonomous_Vehicles_to_Express_Interaction_Intent_during_Unprotected_Left_Turns_A_Human-Driving-Prior-Based_Trajectory_Planning_Approach)
 
-**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprints.
+**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprint.
 
 </div>
 </div>
@@ -142,16 +142,16 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 [Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://www.researchgate.net/publication/370850830_Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors)
 
-**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, preprints.
+**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, preprint.
 
 </div>
 </div>
 
-- [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://www.researchgate.net/publication/383704210_Towards_Interactive_and_Learnable_Cooperative_Driving_Automation_a_Large_Language_Model-Driven_Decision-making_Framework), Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprints.
+- [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://www.researchgate.net/publication/383704210_Towards_Interactive_and_Learnable_Cooperative_Driving_Automation_a_Large_Language_Model-Driven_Decision-making_Framework), Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
 
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
 
-- [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprints.
+- [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprint.
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu**$^\star$, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 

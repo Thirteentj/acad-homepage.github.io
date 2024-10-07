@@ -130,7 +130,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/IRL_Planning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach](https://www.researchgate.net/publication/372784984_Teaching_Autonomous_Vehicles_to_Express_Interaction_Intent_during_Unprotected_Left_Turns_A_Human-Driving-Prior-Based_Trajectory_Planning_Approach)
+[Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://arxiv.org/abs/2307.15950)
 
 **Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprint.
 
@@ -147,7 +147,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 </div>
 </div>
 
-- [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://www.researchgate.net/publication/383704210_Towards_Interactive_and_Learnable_Cooperative_Driving_Automation_a_Large_Language_Model-Driven_Decision-making_Framework), Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
+- [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812), Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
 
 - [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
 

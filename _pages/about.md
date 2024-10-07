@@ -189,7 +189,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 # 📚 Academic Services
 ## Reviews
 - Journal Reviewer: IEEE Transactions on Intelligent Vehicles (TIV), IEEE Transactions on Intelligent Transportation Systems (TITS), Journal of Field Robotics, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Automation Science and Engineering (TASE), Journal of Advanced Transportation
-- Conference Reviewer: ITSC, CVCI, TRB
+- Conference Reviewer: ICRA, ITSC, CVCI, TRB
 
 ##  Mentoring
 

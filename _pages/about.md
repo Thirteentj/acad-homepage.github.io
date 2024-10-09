@@ -184,7 +184,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 # 📖 Educations
 - *2022.09 - now*, Master of Traffic Engineering, Tongji University, Shanghai, China
-- *2018.09 - 2022.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China (GPA: 4.91/5, rank: 1/163)
+- *2018.09 - 2022.06*, Bachelor of Traffic Engineering, Tongji University, Shanghai, China (GPA: 4.89/5, rank: 1/163)
 
 # 📚 Academic Services
 ## Reviews

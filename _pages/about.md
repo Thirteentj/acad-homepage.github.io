@@ -162,7 +162,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 - [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, **Jiaqi Liu**, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 
 # 🎖 Honors and Awards
-
+- *2024.10* National Scholarship, Ministry of Education of China
 - *2024.08* IEEE ITSC 2024 Travel Award
 - *2023.12* Jingchuan Scholarship
 - *2023.01* Dean's Scholarship, College of Transportation Engineering, Tongji University (Only one)

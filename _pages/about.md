@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
 - *2024.09*: &nbsp; One paper entitled [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812) is pre-printed.
 - *2024.08*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2408.06656) (Co-first author) is accepted by [ECCV 2024 MAAS Workshop](https://coop-intelligence.github.io/)(Oral)
 - *2024.08*: &nbsp; Two papers are preprinted on Arxiv: (1) [MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making](https://arxiv.org/abs/2408.06656), (2) [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468)
@@ -132,7 +133,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 [Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://arxiv.org/abs/2307.15950)
 
-**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, preprint.
+**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, accepted by IEEE Transactions on Intelligent Vehicles (TIV).
 
 </div>
 </div>

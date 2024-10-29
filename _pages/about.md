@@ -131,7 +131,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/IRL_Planning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://arxiv.org/abs/2307.15950)
+[Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://ieeexplore.ieee.org/document/10737434)
 
 **Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, accepted by IEEE Transactions on Intelligent Vehicles (TIV).
 

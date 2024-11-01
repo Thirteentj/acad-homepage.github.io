@@ -44,7 +44,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - *2023.09*: &nbsp; One paper entitled Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2309.09726) here.
 - *2023.08*: &nbsp; One paper entitled Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2307.15950) here.
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
-- *2023.05*: &nbsp; One paper entitled Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors is pre-printed on techrxiv. Find [paper](https://www.techrxiv.org/articles/preprint/Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors/22817417) here.
+- *2023.05*: &nbsp; One paper entitled Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors is pre-printed. Find [paper](https://arxiv.org/abs/2409.05712) here.
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai University Student Annual Character, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
 - *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the first overall ranking in my major (1/163), and I got the honor of Shanghai Outstanding Graduate(Top 1%)!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
@@ -153,7 +153,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/MAGADDPG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://www.researchgate.net/publication/370850830_Cooperative_Decision-Making_for_CAVs_at_Unsignalized_Intersections_A_MARL_Approach_with_Attention_and_Hierarchical_Game_Priors)
+[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://arxiv.org/abs/2409.05712)
 
 **Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, preprint.
 

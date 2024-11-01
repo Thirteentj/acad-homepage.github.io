@@ -180,14 +180,13 @@ Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
 </div>
 </div>
 
-
 - [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprint.
+
+- [Optimal Placement of Charging Stations in Road Networks: A Reinforcement Learning Approach with Attention Mechanism](https://www.mdpi.com/2076-3417/13/14/8473), **Jiaqi Liu**, Jian Sun, and Xiao Qi, Applied Sciences 13.14 (2023): 8473.
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part I: System Architecture, Classification & Monitoring Scheme, and Site Selection Algorithm](https://ieeexplore.ieee.org/document/10422624), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu**$^\star$, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
 
 - [Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic](https://ieeexplore.ieee.org/document/10422236), Chaozhong Xue, Yongqi Dong, **Jiaqi Liu**$^\star$, Yijun Liao, Lingbo, IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023.
-  
-- [Optimal Placement of Charging Stations in Road Networks: A Reinforcement Learning Approach with Attention Mechanism](https://www.mdpi.com/2076-3417/13/14/8473), **Jiaqi Liu**, Jian Sun, and Xiao Qi, Applied Sciences 13.14 (2023): 8473.
 
 - [Surrogate Evaluation Model for Assessing Lane Detection Reliability of Automated Vehicles in Complex Road Environments](https://www.researchgate.net/publication/368402742_Surrogate_Evaluation_Model_for_Assessing_Lane_Detection_Reliability_of_Automated_Vehicles_in_Complex_Road_Environments), Chen Chai, Tao Liu, **Jiaqi Liu**, Xu Cao, Yuchen Hu, Qingtao Li, Transportation Research Record.
 

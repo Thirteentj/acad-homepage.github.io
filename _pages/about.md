@@ -160,9 +160,26 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 </div>
 </div>
 
-- [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812), Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CoDrivingLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913), **Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
+[Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812)
+
+Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Evalution interaction.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluation of Drivers’ Interaction Ability at Social Scenarios: A Process-Based Framework](http://dx.doi.org/10.1080/21680566.2024.2380913)
+
+**Jiaqi Liu**, Peng Hang, Xiangwang Hu, Jian Sun, Transportmetrica B: Transport Dynamics, DOI: 10.1080/21680566.2024.2380913.
+
+</div>
+</div>
+
 
 - [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprint.
 

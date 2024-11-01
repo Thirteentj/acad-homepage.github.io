@@ -68,6 +68,17 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LDPD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2410.24152)
+
+**Jiaqi Liu**, Chengkai Xu, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, preprint.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_PPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

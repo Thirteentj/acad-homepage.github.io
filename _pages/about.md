@@ -64,7 +64,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://arxiv.org/abs/2401.03629)
 
-**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, preprint.
+**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, accepted by IEEE Transactions on Artificial Intelligence.
 
 </div>
 </div>

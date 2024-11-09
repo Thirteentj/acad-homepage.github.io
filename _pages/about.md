@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2401.03629) (first author) is accepted by IEEE Transactions on Artificial Intelligence.
 - *2024.11*: &nbsp; One paper entitled [Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2410.24152) is pre-printed on Arxiv.
 - *2024.10*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
 - *2024.09*: &nbsp; One paper entitled [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812) is pre-printed.

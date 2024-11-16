@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2409.05712) (first author) is accepted by IIEEE Transactions on Intelligent Transportation Systems(SCI, Q1).
 - *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10752915) (first author) is accepted by IEEE Transactions on Artificial Intelligence.
 - *2024.11*: &nbsp; One paper entitled [Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2410.24152) is pre-printed on Arxiv.
 - *2024.10*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10737434) (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
@@ -155,7 +156,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 [Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://arxiv.org/abs/2409.05712)
 
-**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, preprint.
+**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, accepted by IIEEE Transactions on Intelligent Transportation Systems.
 
 </div>
 </div>

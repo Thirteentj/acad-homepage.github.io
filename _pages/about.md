@@ -34,18 +34,10 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - *2024.08*: &nbsp;🎉🎉 I won the IEEE ITSC 2024 Travel Award.
 - *2024.07*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2404.15696) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
 - *2024.06*: &nbsp;🎉🎉 [One paper](http://dx.doi.org/10.1080/21680566.2024.2380913) (first author) is accepted by Transportmetrica B: Transport Dynamics.
-- *2024.06*: &nbsp; One paper entitled A Decision-Making GPT Model Augmented with Entropy Regularization for
-  Autonomous Vehicles is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2406.13908) here.
-- *2024.04*: &nbsp; One paper entitled Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2404.15696) here.
 - *2024.04*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
-- *2024.01*: &nbsp; One paper entitled DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2401.03629) here.
-- *2023.12*: &nbsp; One paper entitled Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2312.11843) here.
 - *2023.11*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
 - *2023.10*: &nbsp;🎉 One paper (first author) is accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
-- *2023.09*: &nbsp; One paper entitled Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2309.09726) here.
-- *2023.08*: &nbsp; One paper entitled Teaching Autonomous Vehicles to Express Interaction Intent during Unprotected Left Turns: A Human-Driving-Prior-Based Trajectory Planning Approach is pre-printed on ArXiv. Find [paper](https://arxiv.org/abs/2307.15950) here.
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
-- *2023.05*: &nbsp; One paper entitled Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors is pre-printed. Find [paper](https://arxiv.org/abs/2409.05712) here.
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai University Student Annual Character, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
 - *2022.06*: &nbsp;🎉🎉 I received my Bachelor degree from Tongji University with the first overall ranking in my major (1/163), and I got the honor of Shanghai Outstanding Graduate(Top 1%)!
 - *2021.05*: &nbsp;🎉🎉 I received the Tongji University Pursuit of Excellence Award, the highest honor for undergraduates at Tongji University! Only three undergraduates are able to receive this honor each year!
@@ -86,6 +78,26 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://ieeexplore.ieee.org/document/10315232)
 
 **Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles(TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/IRL_Planning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://ieeexplore.ieee.org/document/10737434)
+
+**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, accepted by IEEE Transactions on Intelligent Vehicles (TIV).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MAGADDPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://arxiv.org/abs/2409.05712)
+
+**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, accepted by IIEEE Transactions on Intelligent Transportation Systems.
 
 </div>
 </div>
@@ -141,25 +153,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/IRL_Planning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://ieeexplore.ieee.org/document/10737434)
-
-**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, accepted by IEEE Transactions on Intelligent Vehicles (TIV).
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MAGADDPG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://arxiv.org/abs/2409.05712)
-
-**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, accepted by IIEEE Transactions on Intelligent Transportation Systems.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CoDrivingLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

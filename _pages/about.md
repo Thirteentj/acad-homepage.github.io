@@ -56,7 +56,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement](https://ieeexplore.ieee.org/document/10752915)
 
-**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, IEEE Transactions on Artificial Intelligence, DOI: 10.1109/TAI.2024.3497918.
+**Jiaqi Liu**, Peng Hang, Xiaocong Zhao, Jianqiang Wang, Jian Sun, IEEE Transactions on Artificial Intelligence(TAI), DOI: 10.1109/TAI.2024.3497918.
 
 </div>
 </div>
@@ -77,7 +77,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://arxiv.org/abs/2409.05712)
 
-**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2024.3503092, 2024.
+**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, IEEE Transactions on Intelligent Transportation Systems (TITS), DOI: 10.1109/TITS.2024.3503092, 2024.
 
 </div>
 </div>
@@ -87,7 +87,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness](https://ieeexplore.ieee.org/document/10315232)
 
-**Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles(TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
+**Jiaqi Liu**, Donghao Zhou, Peng Hang, Ying Ni, Jian Sun, IEEE Transactions on Intelligent Vehicles (TIV), DOI: 10.1109/TIV.2023.3332080, 2023.
 
 </div>
 </div>
@@ -97,7 +97,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://ieeexplore.ieee.org/document/10737434)
 
-**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, IEEE Transactions on Intelligent Vehicles, DOI: 10.1109/TIV.2024.3487527, 2024.
+**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, IEEE Transactions on Intelligent Vehicles (TIV), DOI: 10.1109/TIV.2024.3487527, 2024.
 
 </div>
 </div>
@@ -107,7 +107,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://ieeexplore.ieee.org/document/10494558)
 
-**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology(TVT), DOI:10.1109/TVT.2024.3385750.
+**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology (TVT), DOI:10.1109/TVT.2024.3385750.
 
 </div>
 </div>

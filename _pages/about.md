@@ -34,8 +34,8 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 - *2024.08*: &nbsp;🎉🎉 I won the IEEE ITSC 2024 Travel Award.
 - *2024.07*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2404.15696) (first author) is accepted by [ITSC 2024](https://ieee-itsc.org/2024/).
 - *2024.06*: &nbsp;🎉🎉 [One paper](http://dx.doi.org/10.1080/21680566.2024.2380913) (first author) is accepted by Transportmetrica B: Transport Dynamics.
-- *2024.04*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
-- *2023.11*: &nbsp;🎉🎉 One paper (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
+- *2024.04*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10494558) (first author) is accepted by IEEE Transactions on Vehicular Technology(SCI, Q1).
+- *2023.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10315232) (first author) is accepted by IEEE Transactions on Intelligent Vehicles(SCI, Q1).
 - *2023.10*: &nbsp;🎉 One paper (first author) is accepted by Transportation Research Board 103th Annual MeetingTransportation Research Board.
 - *2023.07*: &nbsp;🎉🎉 As the first author or the corresponding author, I got **three** papers accepted by [the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)](https://2023.ieee-itsc.org/)!
 - *2022.09*: &nbsp;🎉🎉 I was bestowed with the Nominee Award for Shanghai University Student Annual Character, a recognition of paramount importance in evaluating the comprehensive aptitudes and societal influence of college students within the Shanghai municipality. Only 20 people in Shanghai receive the award each year (including nominees)!
@@ -87,7 +87,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Human-Like Implicit Intention Expression for Autonomous Driving Motion Planning: A Method Based on Learning Human Intention Priors](https://ieeexplore.ieee.org/document/10737434)
 
-**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, accepted by IEEE Transactions on Intelligent Vehicles (TIV).
+**Jiaqi Liu**, Xiao Qi, Ying Ni, Jian Sun, Peng Hang, IEEE Transactions on Intelligent Vehicles, DOI: 10.1109/TIV.2024.3487527, 2024.
 
 </div>
 </div>
@@ -97,7 +97,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://arxiv.org/abs/2409.05712)
 
-**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, accepted by IIEEE Transactions on Intelligent Transportation Systems.
+**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2024.3503092, 2024.
 
 </div>
 </div>

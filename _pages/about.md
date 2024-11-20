@@ -72,6 +72,16 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/MAGADDPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://arxiv.org/abs/2409.05712)
+
+**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2024.3503092, 2024.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_PPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,12 +102,12 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/MAGADDPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_Game_Decision.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors](https://arxiv.org/abs/2409.05712)
+[Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://ieeexplore.ieee.org/document/10494558)
 
-**Jiaqi Liu**, Peng Hang, Xiaoxiang Na, Chao Huang, Jian Sun, IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2024.3503092, 2024.
+**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology(TVT), DOI:10.1109/TVT.2024.3385750.
 
 </div>
 </div>
@@ -122,15 +132,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Social_Game_Decision.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification](https://ieeexplore.ieee.org/document/10494558)
-
-**Jiaqi Liu**, Xiao Qi, Peng Hang, Jian Sun, IEEE Transactions on Vehicular Technology(TVT), DOI:10.1109/TVT.2024.3385750.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAMARL_for_CACC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

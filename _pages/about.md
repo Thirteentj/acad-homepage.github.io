@@ -147,9 +147,9 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SafeGPT_Entropy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://arxiv.org/abs/2406.13908)
+[A Decision-Making GPT Model Augmented with Entropy Regularization for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10830105)
 
-**Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, accepted by [8th CAA International Conference on Vehicular Control and Intelligence (CVCI 2024)](http://www.ascl.jlu.edu.cn/vci/cvci2024/Home.htm)
+**Jiaqi Liu**, Shiyu Fang, Xuekai Liu, Lulu Guo, Peng Hang, Jian Sun, [8th CAA International Conference on Vehicular Control and Intelligence (CVCI 2024)](http://www.ascl.jlu.edu.cn/vci/cvci2024/Home.htm)
 
 </div>
 </div>

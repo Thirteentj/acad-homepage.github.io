@@ -184,7 +184,7 @@ Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
 
 [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387)
 
-Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun, preprint.
+Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 
 </div>
 </div>

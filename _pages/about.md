@@ -179,7 +179,7 @@ Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CoDrivingLLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Tell_drive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387)

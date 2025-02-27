@@ -25,6 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2410.24152) (first author) is accepted by IEEE Robotics and Automation Letters (RA-L).
 - *2025.02*: &nbsp; One paper entitled [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387) is pre-printed.
 - *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10774177) (first author) is accepted by IEEE Transactions on Intelligent Transportation Systems (SCI, Q1).
 - *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10752915) (first author) is accepted by IEEE Transactions on Artificial Intelligence.
@@ -67,7 +68,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 [Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2410.24152)
 
-**Jiaqi Liu**, Chengkai Xu, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, preprint.
+**Jiaqi Liu**, Chengkai Xu, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, accepted by IEEE Robotics and Automation Letters (RA-L).
 
 </div>
 </div>

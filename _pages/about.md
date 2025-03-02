@@ -190,6 +190,7 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 </div>
 </div>
 
+- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://fangshiyuu.github.io/Actor-Reasoner/), Shiyu Fang, **Jiaqi Liu**, Chengkai Xu, Chen Lv, Peng Hang, Jian Sun, preprint.
 
 - [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprint.
 
@@ -237,6 +238,6 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 - Yicheng Guo: Tongji University, 2023-present.
 
 ### Undergraduate students
-- Chengkai Xu: Tongji University, 2023-present.
+- [Chengkai Xu](https://scholar.google.com.sg/citations?user=qv36apkAAAAJ&hl=en&oi=ao): Tongji University, 2023-present.
 - Zihao Deng: Tongji University, 2023-2024.
 - Yuhang Zhang: Tongji University, 2024-present.

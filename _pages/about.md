@@ -25,7 +25,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 
 # 🔥 News
-- *2025.03*: &nbsp; One paper entitled [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://www.researchgate.net/publication/389496960_Interact_Instruct_to_Improve_A_LLM-Driven_Parallel_Actor-Reasoner_Framework_for_Enhancing_Autonomous_Vehicle_Interactions) is pre-printed.
+- *2025.03*: &nbsp; One paper entitled [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502) is pre-printed.
 - *2025.02*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2410.24152) (first author) is accepted by IEEE Robotics and Automation Letters (RA-L).
 - *2025.02*: &nbsp; One paper entitled [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387) is pre-printed.
 - *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10774177) (first author) is accepted by IEEE Transactions on Intelligent Transportation Systems (SCI, Q1).
@@ -191,7 +191,7 @@ Chengkai Xu, **Jiaqi Liu**, Peng Hang, Jian Sun,  preprint.
 </div>
 </div>
 
-- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://www.researchgate.net/publication/389496960_Interact_Instruct_to_Improve_A_LLM-Driven_Parallel_Actor-Reasoner_Framework_for_Enhancing_Autonomous_Vehicle_Interactions), Shiyu Fang, **Jiaqi Liu**, Chengkai Xu, Chen Lv, Peng Hang, Jian Sun, preprint.
+- [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502), Shiyu Fang, **Jiaqi Liu**, Chengkai Xu, Chen Lv, Peng Hang, Jian Sun, preprint.
 
 - [Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework](https://arxiv.org/abs/2408.09468), Chengkai Xu, Zihao Deng, **Jiaqi Liu**$^\star$, Chao Huang, Peng Hang$^\star$, preprint.
 

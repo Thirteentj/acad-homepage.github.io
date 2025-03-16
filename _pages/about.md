@@ -26,7 +26,7 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 
 # 🔥 News
 - *2025.03*: &nbsp; One paper entitled [Interact, Instruct to Improve: A LLM-Driven Parallel Actor-Reasoner Framework for Enhancing Autonomous Vehicle Interactions](https://arxiv.org/abs/2503.00502) is pre-printed.
-- *2025.02*: &nbsp;🎉🎉 [One paper](https://arxiv.org/abs/2410.24152) (first author) is accepted by IEEE Robotics and Automation Letters (RA-L).
+- *2025.02*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10924758) (first author) is accepted by IEEE Robotics and Automation Letters (RA-L).
 - *2025.02*: &nbsp; One paper entitled [TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](https://arxiv.org/abs/2502.01387) is pre-printed.
 - *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10774177) (first author) is accepted by IEEE Transactions on Intelligent Transportation Systems (SCI, Q1).
 - *2024.11*: &nbsp;🎉🎉 [One paper](https://ieeexplore.ieee.org/document/10752915) (first author) is accepted by IEEE Transactions on Artificial Intelligence.
@@ -67,9 +67,9 @@ I am currently seeking a Ph.D. position in a relevant field and anticipate start
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/LDPD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2410.24152)
+[Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning](https://ieeexplore.ieee.org/document/10924758)
 
-**Jiaqi Liu**, Chengkai Xu, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, accepted by IEEE Robotics and Automation Letters (RA-L).
+**Jiaqi Liu**, Chengkai Xu, Peng Hang, Jian Sun, Mingyu Ding, Wei Zhan, Masayoshi Tomizuka, IEEE Robotics and Automation Letters (RA-L), DOI: 10.1109/LRA.2025.3551098.
 
 </div>
 </div>

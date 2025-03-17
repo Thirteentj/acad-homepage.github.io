@@ -166,7 +166,7 @@ Yicheng Guo$^\star$, **Jiaqi Liu**$^\star$, Rongjie Yu, Peng Hang, Jian Sun, acc
 
 [Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework](https://arxiv.org/abs/2409.12812)
 
-Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, preprint.
+Shiyu Fang, **Jiaqi Liu**, Mingyu Ding, Chen Lv, Peng Hang, Jian Sun, accepted by IEEE Transactions on Vehicular Technology.
 
 </div>
 </div>

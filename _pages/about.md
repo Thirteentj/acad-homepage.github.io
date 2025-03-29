@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master's student from [Tongji University](https://en.tongji.edu.cn/).  I am working in the [TOPS Lab](https://tops.tongji.edu.cn/), and supervised by Professor [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Peng Hang](https://tops.tongji.edu.cn/info/1031/1383.htm). I interned at [UC Berkeley](https://www.berkeley.edu/) as a visiting student researcher, where I collaborated with [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Prof. Mingyu Ding](https://dingmyu.github.io/),  and [Dr. Wei Zhan](https://zhanwei.site/).
 
-My research interests include embodied AI, robot learning, autonomous vehicles, reinforcement learning , and foundation models. And my research vision is to build a safer, more generalized, and socially compatible autonomous system. My research goal is to develop intelligent robotic systems and general-purpose robotic foundation models, advancing embodied agents capable of sophisticated reasoning, adaptive decision-making, and effective interaction within dynamic, real-world environments.
+My research interests include embodied AI, robot learning, autonomous vehicles, reinforcement learning , and foundation models. And my research goal is to develop intelligent robotic systems and general-purpose robotic foundation models, advancing embodied agents capable of sophisticated reasoning, adaptive decision-making, and effective interaction within dynamic, real-world environments.
 
 
 
